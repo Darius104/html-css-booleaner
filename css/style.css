@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header-principale{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    
+}
+
+#logo{
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 0.5%;
+}
+
+.container{
+    margin-left: 0.5%;
+}
+
+#size-titolo{
+    ;
+}
