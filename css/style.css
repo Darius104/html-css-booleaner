@@ -93,3 +93,33 @@ th{
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
+#titolo-footer{
+    color: gray;
+}
+
+.footer-finale1{
+    background-image: url(../img/monitor.jpg);
+    background-size: 300px;
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+    
+}
+
+.footer-finale2{
+    background-image: url(../img/graph.jpg);
+    background-size: 300px;
+    width: 300px;
+    height: 250px;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+    
+}
