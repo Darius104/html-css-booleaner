@@ -18,8 +18,78 @@
 
 .container{
     margin-left: 0.5%;
+    margin-right: 0.5%;
+
 }
 
 #size-titolo{
+    font-size: 70px;
+}
+
+#carattere{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+
+}
+
+#autore{
+    color: #20a9e5;
+}
+
+#data-autore{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+#immagini-body{
+    margin-top: 1%;
+}
+
+#first-lorem{
+    margin-top: 1%;
+}
+
+.yellow-row{
+    background-color: yellow;
+}
+
+.prova{
+    margin-left: 0.9%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left
     ;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+    font-weight: bold;
+}
+
+.first-row{
+    width: 300px;
+}
+
+th{
+    font-size: 30px;
+}
+
+.colore-chiaro{
+    background-color: #b1e5f2;
+}
+
+.colore-bianco{
+    background-color: white;
+}
+
+#ultimo-lorem{
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
